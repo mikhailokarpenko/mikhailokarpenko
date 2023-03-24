@@ -1,4 +1,4 @@
-### Hi there I'm Mike!👋
+### Hi there I'm Michael!👋
 
 [<img src="twitter.png" width="30">](https://twitter.com/skrello)
 [<img src="linkedin.png" width="30">](https://www.linkedin.com/in/mikhailokarpenko/)
