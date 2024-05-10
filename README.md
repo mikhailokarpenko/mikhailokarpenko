@@ -6,5 +6,7 @@
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=skrello.mikhailokarpenko&left_color=green&right_color=red)
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+</a>
 
